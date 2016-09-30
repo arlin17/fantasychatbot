@@ -1,0 +1,35 @@
+{
+    "topics": {
+        "random": {
+            "flags": [],
+            "keywords": []
+        }
+    },
+    "gambits": {
+        "kzb2vxN5": {
+            "topic": "random",
+            "options": {
+                "isQuestion": false,
+                "qType": false,
+                "isConditional": false,
+                "qSubType": false,
+                "filter": false
+            },
+            "replys": [
+                "ldA5yh5C",
+                "jFUByKJG"
+            ],
+            "redirect": null,
+            "trigger": "<names>(?:\\s*vs\\s*|\\s*or\\s*|\\s*)<names>",
+            "raw": "<names> [vs|or] <names>"
+        }
+    },
+    "convos": {},
+    "replys": {
+        "ldA5yh5C": "You should start <cap2>",
+        "jFUByKJG": "Definitely, <cap1>"
+    },
+    "checksums": {
+        "./topics/main.ss": "d4a784ac8ec5a809f07bf300bb5cd570d73e1668"
+    }
+}
